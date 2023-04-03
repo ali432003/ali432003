@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [ali432003.github.io/My-Portfolio-Design/](ali432003.github.io/My-Portfolio-Design/)
+- 👨‍💻 All of my projects are available at https://ali432003.github.io/My-Portfolio-Design/
 
 - 💬 Ask me about **HTML5 CSS3 JS**
 
