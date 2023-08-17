@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at my <a href="https:"https://aliaamironline.netlify.app/" target="_blank">Portfolio</a>
+- 👨‍💻 All of my projects are available at my [PortFolio](https://aliaamironline.netlify.app/).
 
 - 💬 Ask me about **HTML5 CSS3 JS**
 
