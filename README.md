@@ -59,11 +59,11 @@
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img src="https://raw.githubusercontent.com/ali432003/ali432003/main/images/vite.png" alt="Vite.js" width="45" height="45" />
+<img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite.js" width="45" height="45" />
 
-<img src="https://raw.githubusercontent.com/ali432003/ali432003/main/images/material.png" alt="Material-UI" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  width="45" height="45" />
 
-<img src="https://raw.githubusercontent.com/ali432003/ali432003/main/images/nodejs.png" alt="Node.js" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" />
 
 
 
