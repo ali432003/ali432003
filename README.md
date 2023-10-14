@@ -51,7 +51,7 @@
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <p align="center">
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
@@ -62,6 +62,7 @@
 <img src="https://img.icons8.com/ultraviolet/48/000000/vite.png" alt="Vite.js"/>
 <img src="https://img.icons8.com/ultraviolet/48/000000/material.png" alt="Material-UI"/>
 <img src="https://img.icons8.com/ultraviolet/48/000000/nodejs.png" alt="Node.js"/>
+
    </p>
 
 ---
