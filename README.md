@@ -59,9 +59,9 @@
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img src="https://img.shields.io/badge/Vite.js-2E7D32?style=flat&logo=vite&logoColor=white" alt="Vite.js"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material-UI"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.icons8.com/ultraviolet/48/000000/vite.png" alt="Vite.js"/>
+<img src="https://img.icons8.com/ultraviolet/48/000000/material.png" alt="Material-UI"/>
+<img src="https://img.icons8.com/ultraviolet/48/000000/nodejs.png" alt="Node.js"/>
    </p>
 
 ---
