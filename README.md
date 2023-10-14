@@ -80,7 +80,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali432003&langs_count=8&layout=compact&theme=gruvbox" width="350" />
 <img src="https://github-readme-stats.vercel.app/api?username=ali432003&theme=gruvbox&show_icons=true" width="420"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=ali432003&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%"/>
+
 </p>
 
 ---
