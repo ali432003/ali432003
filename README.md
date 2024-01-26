@@ -33,7 +33,7 @@
 <!-- End here -->
   <div align="left">
     &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
-    &nbsp; ⇢ &nbsp; I'm currently learning Web development and enhancing my skills.</br>
+    &nbsp; ⇢ &nbsp; I'm currently learning MERN STACK and enhancing my skill set.</br>
     &nbsp; ⇢ &nbsp; I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).</br>
     
   
