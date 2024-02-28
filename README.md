@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><b>Hi there I'm Muhammad Ali Aamir <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there I'm Muhammad Ali Aamir <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 </div>
 <p align="center">
   <a href="https://twitter.com/AliAami24230452"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
