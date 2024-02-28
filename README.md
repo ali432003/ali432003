@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><b>Hi there I'm Muhammad Ali Aamir <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+  <h1 align="center"><b>Hi there I'm Muhammad Ali Aamir </h1>
 </div>
 <p align="center">
   <a href="https://twitter.com/AliAami24230452"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
@@ -33,7 +33,7 @@
 <!-- End here -->
   <div align="left">
     &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
-    &nbsp; ⇢ &nbsp; I'm currently learning MERN STACK and enhancing my skill set.</br>
+    &nbsp; ⇢ &nbsp; I'm currently learning MERN STACK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and enhancing my skill set.</br>
     &nbsp; ⇢ &nbsp; I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).</br>
     
   
