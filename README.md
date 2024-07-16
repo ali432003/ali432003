@@ -9,9 +9,11 @@
   </a>
 </div>
  
-<div align="center" width="50" style="margin-top:2rem;">
+<div align="center" width="50">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+  <br>
 </div>
+
 <div align="center">
   
 <h1 align="center">
